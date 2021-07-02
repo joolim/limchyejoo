@@ -13,7 +13,10 @@
 
 .headerContainer {
   width: auto;
+  /*max-width: 500px;*/
+  /* margin: auto; */
   margin-left: 50px;
+  text-align: left;
 }
 
 .headerContainer h1 {
@@ -22,14 +25,16 @@
   font-size: 90px;
   height: 60px;
   font-weight: 50;
-  color: black;
+  color: rgb(217, 247, 88);
+  text-shadow: 3px 3px 8px rgb(199, 88, 88);
 }
 
 .headerContainer p {
   padding: 0;
   font-size: 40px;
-  font-weight: lighter;
-  color: black;
+  font-weight: bold;
+  color: rgb(217, 247, 88);
+  text-shadow: 3px 3px 8px rgb(199, 88, 88);
 }
 
 .headerContainer button {

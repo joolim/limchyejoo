@@ -10,7 +10,7 @@ function Home() {
       <div className="headerContainer">
         <h1> Joo's Pizzeria </h1>
         <p>Ho Chiak and Shiok!</p>
-        <p>Dine In and Takeway</p>
+        <br></br>
         <Link to="/menu">
           <button> ORDER NOW </button>
         </Link>
