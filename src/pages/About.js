@@ -11,11 +11,13 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          The quick brown fox jumps over the lazy dog. The quick brown fox jumps
-          over the lazy dog. The quick brown fox jumps over the lazy dog. The
-          quick brown fox jumps over the lazy dog. The quick brown fox jumps
-          over the lazy dog. The quick brown fox jumps over the lazy dog. The
-          quick brown fox jumps over the lazy dog.
+          Ho chiak! Ho chiak! Ho chiak! Ho chiak! Ho chiak! Ho chiak! Ho chiak!
+          Ho chiak! Ho chiak! Ho chiak! Ho chiak! Ho chiak! Ho chiak! Ho chiak!
+          Ho chiak! The quick brown fox jumps over the lazy dog. The quick brown
+          fox jumps over the lazy dog. The quick brown fox jumps over the lazy
+          dog. The quick brown fox jumps over the lazy dog. The quick brown fox
+          jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+          The quick brown fox jumps over the lazy dog.
         </p>
       </div>
     </div>
