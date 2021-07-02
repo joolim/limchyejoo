@@ -9,7 +9,7 @@ function Home() {
     (
       <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
         <div className="headerContainer">
-          <h1> Ah Joo's Pizzeria </h1>
+          <h1> Joo's Pizzeria </h1>
           <p> Ho Chiak and Shiok!</p>
           <p> Dine In and Takeway</p>
           <Link to="/menu">
@@ -19,7 +19,10 @@ function Home() {
       </div>
     ),
     (
-      <div className="home" style={{ backgroundImage: `url(${BannerImage2})` }}>
+      <div
+        className="aboutBottom"
+        style={{ backgroundImage: `url(${BannerImage2})` }}
+      >
         <div className="headerContainer">
           <h1> NUS Branch </h1>
           <p> Opening Soon!</p>
