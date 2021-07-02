@@ -1,15 +1,15 @@
-# Status of Website on Netlify
-
+# Netlify One Click Deploy Automation
+Click button to auto build/deploy in Netlify.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/compassionate-easley-85b61e/deploys)
 
-# click link to view deployed website
+# Click link to view deployed website
 https://compassionate-easley-85b61e.netlify.app
+This app is deployed using Netlify
 
-## Netlify deploy workflow amendment:
+## First time Netlify deployment workflow Note:
 replace "yarn build" with "CI= npm run build" or "CI= yarn run build", to avoid error in build deployment.
 
-
-# Getting Started with Create React App
+# Getting Started with Create React App ( documentation for yarn. replace with npm when needed )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn start` or `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -25,6 +25,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+
+
+..................Netifly Notes End ......................
+
+
+
+
+# Notes for deployment from terminal.
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
