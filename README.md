@@ -2,6 +2,13 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/compassionate-easley-85b61e/deploys)
 
+# click link to view deployed website
+https://compassionate-easley-85b61e.netlify.app
+
+## Netlify deploy workflow amendment:
+replace "yarn build" with "CI= npm run build" or "CI= yarn run build", to avoid error in build deployment.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
