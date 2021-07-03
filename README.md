@@ -1,8 +1,8 @@
-# Netlify One Click Deploy Automation
-Click button to auto build/deploy in Netlify.
+# Netlify One Click ReDeploy Automation
+Click button to auto build/deploy in Netlify. Shows status of deployment.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/compassionate-easley-85b61e/deploys)
 
-# Click link to view deployed website
+# Click link to view redeployed website
 https://compassionate-easley-85b61e.netlify.app
 This app is deployed using Netlify
 
