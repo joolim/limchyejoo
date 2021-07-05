@@ -7,7 +7,7 @@ Netlify deployment status button. Link to Netlify deploy status.
 
 https://joos-pizza.netlify.app
 This app is deployed using Netlify
-
+( Ting2's DevOps web: https://stt-seah.github.io/Fintech-Learners/)
 # Netlify Overview Page: 
 https://app.netlify.com/sites/joos-pizza/deploys
 - view production deploy logs
