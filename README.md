@@ -1,12 +1,19 @@
-# Netlify One Click Deploy Automation
-Click button to auto build/deploy in Netlify.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/compassionate-easley-85b61e/deploys)
+# Netlify CI/CD Automation with Github
+
+Netlify deployment status button. Link to Netlify deploy status.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/joos-pizza/deploys)
 
 # Click link to view deployed website
-https://compassionate-easley-85b61e.netlify.app
+
+https://joos-pizza.netlify.app
 This app is deployed using Netlify
 
-## First time Netlify deployment workflow Note:
+# Netlify Overview Page: 
+https://app.netlify.com/sites/joos-pizza/deploys
+- view production deploy logs
+
+## First time Netlify deployment workflow Notes:
+
 replace "yarn build" with "CI= npm run build" or "CI= yarn run build", to avoid error in build deployment.
 
 # Getting Started with Create React App ( documentation for yarn. replace with npm when needed )
@@ -25,14 +32,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-
-
 ..................Netifly Notes End ......................
 
-
-
-
 # Notes for deployment from terminal.
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
