@@ -12,7 +12,7 @@ function Home() {
         <p>Ho Chiak and Shiok!</p>
         <br></br>
         <Link to="/menu">
-          <button> ORDER NOW </button>
+          <button> PLACE ORDER </button>
         </Link>
       </div>
     </div>
