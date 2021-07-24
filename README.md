@@ -1,12 +1,16 @@
-# Netlify ReDeploy Automation
+# Netlify CI/CD Automation with Github
 
-Netlify deployment status button. Link to deploy status.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/compassionate-easley-85b61e/deploys)
+Netlify deployment status button. Link to Netlify deploy status.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50b56086-8e1b-4695-b332-caec7cbf1900/deploy-status)](https://app.netlify.com/sites/joos-pizza/deploys)
 
-# Click link to view redeployed website
+# Click link to view deployed website
 
 https://joos-pizza.netlify.app
 This app is deployed using Netlify
+( Ting2's DevOps web: https://stt-seah.github.io/Fintech-Learners/)
+# Netlify Overview Page: 
+https://app.netlify.com/sites/joos-pizza/deploys
+- view production deploy logs
 
 ## First time Netlify deployment workflow Notes:
 
