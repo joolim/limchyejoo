@@ -8,8 +8,11 @@ Netlify deployment status button. Link to Netlify deploy status.
 https://joos-pizza.netlify.app
 This app is deployed using Netlify
 ( Ting2's DevOps web: https://stt-seah.github.io/Fintech-Learners/)
-# Netlify Overview Page: 
+
+# Netlify Overview Page:
+
 https://app.netlify.com/sites/joos-pizza/deploys
+
 - view production deploy logs
 
 ## First time Netlify deployment workflow Notes:
@@ -90,3 +93,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Get tutorial here
+
+https://www.youtube.com/watch?v=QwarZBtFoFA&t=712s
