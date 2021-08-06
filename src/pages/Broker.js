@@ -3,14 +3,14 @@ import { BrokerName } from "../helpers/BrokerName";
 import MenuItem from "../components/MenuItem";
 import "../styles/Menu.css";
 
-function BrokerMenu() {
+function Broker() {
   return (
     <div className="menu">
       <h1 className="menuTitle">My Brokers</h1>
       <div className="menuList">
         {BrokerName.map((menuItem, key) => {
           return (
-            <BrokerName
+            <BrokerItem
               key={key}
               image={menuItem.image}
               name={menuItem.name}
@@ -23,4 +23,4 @@ function BrokerMenu() {
   );
 }
 
-export default BrokerMenu;
+export default Broker;
