@@ -1,5 +1,4 @@
 import React from "react";
-import { BrokerName } from "../helpers/BrokerName";
 import { MenuList } from "../helpers/MenuList";
 import MenuItem from "../components/MenuItem";
 import "../styles/Menu.css";
