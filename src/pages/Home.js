@@ -14,7 +14,7 @@ function Home() {
         <Link to="/menu">
           <button> PLACE ORDER </button>
         </Link>
-        <Link to="/menu">
+        <Link to="/broker">
           <button> BROKERAGES </button>
         </Link>
       </div>
