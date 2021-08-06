@@ -1,6 +1,6 @@
 import React from "react";
 
-function BrokerName({ image, name, price }) {
+function BrokerItem({ image, name, price }) {
   return (
     <div className="menuItem">
       <div style={{ backgroundImage: `url(${image})` }}> </div>
@@ -9,4 +9,4 @@ function BrokerName({ image, name, price }) {
     </div>
   );
 }
-export default BrokerName;
+export default BrokerItem;
