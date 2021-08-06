@@ -18,6 +18,7 @@ https://app.netlify.com/sites/joos-pizza/deploys
 ## First time Netlify deployment workflow Notes:
 
 replace "yarn build" with "CI= npm run build" or "CI= yarn run build", to avoid error in build deployment.
+( sometimes is in complict? npm and yarn? )
 
 # Getting Started with Create React App ( documentation for yarn. replace with npm when needed )
 
