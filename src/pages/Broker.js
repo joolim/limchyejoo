@@ -1,20 +1,20 @@
 import React from "react";
 import { BrokerName } from "../helpers/BrokerName";
-import MenuItem from "../components/MenuItem";
-import "../styles/Menu.css";
+import BrokerItem from "../components/BrokerItem";
+import "../styles/Broker.css";
 
 function Broker() {
   return (
-    <div className="menu">
-      <h1 className="menuTitle">My Brokers</h1>
-      <div className="menuList">
-        {BrokerName.map((menuItem, key) => {
+    <div className="broker">
+      <h1 className="brokerTitle">My Brokers</h1>
+      <div className="brokerName">
+        {BrokerName.map((brokerItem, key) => {
           return (
             <BrokerItem
               key={key}
-              image={menuItem.image}
-              name={menuItem.name}
-              price={menuItem.price}
+              image={brokerItem.image}
+              name={brokerItem.name}
+              price={brokerItem.price}
             />
           );
         })}
