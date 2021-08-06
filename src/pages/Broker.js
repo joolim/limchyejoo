@@ -3,7 +3,7 @@ import { BrokerName } from "../helpers/BrokerName";
 import MenuItem from "../components/MenuItem";
 import "../styles/Menu.css";
 
-function Menu() {
+function BrokerMenu() {
   return (
     <div className="menu">
       <h1 className="menuTitle">My Brokers</h1>
@@ -23,4 +23,4 @@ function Menu() {
   );
 }
 
-export default Menu;
+export default BrokerMenu;
