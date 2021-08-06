@@ -1,3 +1,6 @@
+### Clone this for de.al Trader final project 
+
+
 # Netlify CI/CD Automation with Github
 
 Netlify deployment status button. Link to Netlify deploy status.
@@ -5,7 +8,7 @@ Netlify deployment status button. Link to Netlify deploy status.
 
 # Click link to view deployed website
 
-https://joos-pizza.netlify.app
+https://joos-pizza.netlify.app  
 This app is deployed using Netlify
 ( Ting2's DevOps web: https://stt-seah.github.io/Fintech-Learners/)
 
