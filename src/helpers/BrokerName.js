@@ -5,7 +5,7 @@ import Vegan from "../assets/vegan.jpg";
 import Pineapple from "../assets/pineapple.jpg";
 import Expensive from "../assets/expensive.jpg";
 
-export const MenuList = [
+export const BrokerName = [
   {
     name: "Alpaca",
     image: Alpaca,
