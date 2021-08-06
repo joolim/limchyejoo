@@ -10,7 +10,7 @@ function Menu() {
       <div className="menuList">
         {BrokerName.map((menuItem, key) => {
           return (
-            <MenuItem
+            <BrokerName
               key={key}
               image={menuItem.image}
               name={menuItem.name}
